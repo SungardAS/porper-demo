@@ -1,0 +1,6 @@
+.env
+*.pyc
+pymysql
+porper
+requests
+*.dist-info
