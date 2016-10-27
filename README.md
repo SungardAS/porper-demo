@@ -36,7 +36,7 @@ Controller : demo_controller.py
 Model : demo.py
 ```
 
-## Demo Environment Initialization
+## Instructions
 
 Run the python commands in 'commands.py' step by step
 
